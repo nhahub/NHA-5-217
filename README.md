@@ -35,3 +35,5 @@ The project covers the following main user journeys:
 - Michael Adel Bashout Bakhit
 - Wessam Hassan Fathy Abdulmoeam
 - Hady Mohamed Ibrahim Ibrahim
+- Amr Abdelhamid Mohammed
+
