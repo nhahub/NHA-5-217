@@ -37,3 +37,9 @@ The project covers the following main user journeys:
 - Hady Mohamed Ibrahim Ibrahim
 - Amr Abdelhamid Mohammed
 
+Bugs Report 
+https://intrast.sharepoint.com/:x:/r/sites/ALX5_SWD6_G1/Shared%20Documents/General/Assignments/Graduation%20Project/Team%202/Bug%20Report.xlsx?d=waac804794ab341b187119a3228a57dff&csf=1&web=1&e=oaPt7W
+
+Test Cases
+https://intrast.sharepoint.com/:x:/r/sites/ALX5_SWD6_G1/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B880355da-f645-4ac1-9495-9c1f7a3d2b75%7D&wdExp=TEAMS-TREATMENT&web=1
+
